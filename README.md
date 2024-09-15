@@ -96,5 +96,7 @@ Currently, I’m diving into the mesmerizing world of deep learning and its unde
 
 <!-- Latest Medium Posts Section: Display latest posts from Medium -->
 <div align="right">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=nischalbhattaraipi&theme=dark" alt="Latest Medium posts" />
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nischalbhattaraipi/0" style="text-decoration: none; color: black;">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@nischalbhattaraipi/0" alt="Recent Article 0" style="border: none;"/>
+  </a>
 </div>
