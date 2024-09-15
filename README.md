@@ -93,10 +93,3 @@ Currently, I’m diving into the mesmerizing world of deep learning and its unde
 
 <!-- Divider -->
 ---
-
-<!-- Latest Medium Posts Section: Display latest posts from Medium -->
-<div align="right">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nischalbhattaraipi/0" style="text-decoration: none; color: black;">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@nischalbhattaraipi/0" alt="Recent Article 0" style="border: none;"/>
-  </a>
-</div>
