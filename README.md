@@ -1,6 +1,6 @@
 <!-- Profile Image Section: Display your profile image -->
+<!-- Profile Image Section: Display your profile image -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="https://github.com/NISCHALPI.png" alt="Nischal Bhattarai" style="border-radius: 50%; height: 150px; margin-right: 20px;"/>
     <div>
         <!-- Header Section: Introduction -->
         <h2 style="color: #F8D210;">Hey there! 👋 I’m Nischal—congratulations, you’ve found me!</h2>
